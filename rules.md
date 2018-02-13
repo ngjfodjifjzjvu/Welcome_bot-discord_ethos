@@ -4,9 +4,10 @@
 
 Règles :
 
-- Dès votre arrivée, une brève présentation est la bienvenue dans ce channel (pour vos photos de rigs, rendez-vous dans le channel dédié)
+- Dès votre arrivée, une brève présentation est la bienvenue dans ce channel (pour vos photos de rigs, rendez-vous dans le channel dédié) !!! Merci aussi de vous inscrire dans le channel #MINING-MAP !!!
 
 - Veuillez lire entièrement la présentation des channels ci-dessous (une question au mauvais endroit sera immédiatement supprimée)
+
 - Des channels vocaux sont aussi disponibles sur le serveur, merci de vous rendre dans le channel vocal approprié à votre problème
 
 - Enfin, merci d'envoyer des messages compréhensibles et de qualité, de respecter les autres utilisateurs : pas d'insultes, de spams, etc (vous pouvez à tout moment modifier votre message pour ne pas écrire de doublons)
